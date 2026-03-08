@@ -1,12 +1,12 @@
 # HG-Lane
 
-Code for "HG-Lane: High-Fidelity Generation of Lane Scenes under Adverse Weather and Lighting Conditions without Re-annotation"(AAAI-26 Manuscript Submitted)
+Code for "HG-Lane: High-Fidelity Generation of Lane Scenes under Adverse Weather and Lighting Conditions without Re-annotation"(CVPR 2026)
 
 
 
 ## Installation
 
-This part refers to ComfyUI. For more details or check the errors of installation, you can see in it.
+This part refers to [ComfyUI](https://github.com/Comfy-Org/ComfyUI). For more details or check the errors of installation, you can see in it.
 
 ### Clone this repository
 
