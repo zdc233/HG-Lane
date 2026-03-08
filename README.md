@@ -115,7 +115,7 @@ Finally, you can get the dataset of our framework. However, you need to generate
 
 ## Download Our Dataset
 
-You can download our dataset on [HGLane](https://drive.google.com/file/d/1QUbxiapzoUBwl9gsLeeRLggM97Pysa9W/view?usp=sharing) **(anonymous).** The dataset is divided in 7:1:2.
+You can download our dataset on [HGLane](https://drive.google.com/file/d/1QUbxiapzoUBwl9gsLeeRLggM97Pysa9W/view?usp=sharing). The dataset is divided in 7:1:2.
 
 | Category | Total | Train |  Val |  Test |
 | :------- | ----: | ----: | ---: | ----: |
